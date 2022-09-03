@@ -1,10 +1,10 @@
 ### Hello, I'm Gabriel.
 
 - 🔭 I’m currently working as a project engineer
-- 🌱 I’m currently learning analytics of data 
+- 🌱 I’m currently learning data analytics 
 - 🤔Looking for help with data, programming, and technology
-- 💬 Ask me about my experience e projects
-- ⚡ Fun fact: games, love football and read books
+- 💬 Ask me about my experience and projects
+- ⚡ Fun fact: I love games, football and reading books
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbis&show_icons=true&theme=highcontrast)
 
